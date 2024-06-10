@@ -1,5 +1,5 @@
 # boilerplate-three-js
-This project was generated manually using a bundler and parcel.
+This project was generated manually using parcel.
 
 ## Development server
 
